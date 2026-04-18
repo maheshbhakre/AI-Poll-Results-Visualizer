@@ -24,7 +24,7 @@ It converts raw survey data into:
 
 ## 🎥 Demo Video
 
-[![Watch Video](images/demo_project3.png)](images/demo_project3.mp4)
+[![Watch Video](images/video_thumbnail3.png)](images/demo_project3.mp4)
 
 ---
 
@@ -118,26 +118,13 @@ Raw Data → Data Cleaning → EDA → Analysis → Visualization → NLP → In
 
 ```
 AI-POLL-RESULTS-VISUALIZER/
-├
+├── .venv/
 ├── app/
 │   └── app.py
 ├── data/
 │   ├── cleaned_poll_data.csv
 │   └── poll_data.csv
 ├── images/
-│   ├── age_group_comparison.png
-│   ├── age_vs_tool.png
-│   ├── daily_trend.png
-│   ├── dash1111.png
-│   ├── dash2222.png
-│   ├── region_stacked.png
-│   ├── region_vs_tool.png
-│   ├── satisfaction_by_tool.png
-│   ├── satisfaction_distribution.png
-│   ├── satisfaction_heatmap.png
-│   ├── tool_preference.png
-│   ├── vote_share_bar.png
-│   └── vote_share_pie.png
 ├── notebooks/
 ├── outputs/
 │   ├── insights_report.txt
@@ -154,6 +141,7 @@ AI-POLL-RESULTS-VISUALIZER/
 ├── main.py
 ├── README.md
 └── requirements.txt
+
 ```
 
 ---
@@ -219,36 +207,47 @@ streamlit run app/app.py
 * 🔑 Keyword Extraction
 
 ---
-
 ## 📸 Phase-wise Implementation Proof
 
 ### 🔹 Phase 1
 
-(Add screenshots)
+![Phase 1](images/phase1/Screenshot%202026-04-18%20203753.png)
+
+---
 
 ### 🔹 Phase 2
 
-(Add screenshots)
+![Phase 2](images/phase2/Screenshot%202026-04-18%20204328.png)
+
+---
 
 ### 🔹 Phase 3
 
-(Add screenshots)
+![Phase 3](images/phase3/Screenshot%202026-04-18%20204801.png)
+
+---
 
 ### 🔹 Phase 4
 
-(Add screenshots)
+![Phase 4](images/phase4/Screenshot%202026-04-18%20204818.png)
+
+---
 
 ### 🔹 Phase 5
 
-(Add screenshots)
+![Phase 5](images/phase5/Screenshot%202026-04-18%20205622.png)
+
+---
 
 ### 🔹 Phase 6
 
-(Add screenshots)
+![Phase 6](images/phase6/Screenshot%202026-04-18%20210026.png)
+
+---
 
 ### 🔹 Phase 7
 
-(Add screenshots)
+![Phase 7](images/phase7/Screenshot%202026-04-18%20211704%20-%20Copy.png)
 
 ---
 

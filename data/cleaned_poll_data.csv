@@ -1,0 +1,203 @@
+Timestamp,Respondent_ID,Age Group,Gender,Region,Preferred Tool,Satisfaction (1-5),Feedback,Date,Feedback Length
+2024-04-01 00:00:00.000000,R001,18-24,Male,Urban,Power Bi,3,Poor experience,2024-04-01,15
+2024-04-01 00:10:00.000000,R002,18-24,Female,Urban,Python,4,Loved it,2024-04-01,8
+2024-04-01 00:20:00.000000,R003,25-34,Female,Rural,Excel,3,Nothing special,2024-04-01,15
+2024-04-01 00:30:00.000000,R004,35-44,Male,Urban,Excel,3,Average experience,2024-04-01,18
+2024-04-01 00:40:00.000000,R005,18-24,Male,Urban,Python,5,Very useful tool,2024-04-01,16
+2024-04-01 00:50:00.000000,R006,25-34,Female,Urban,Python,4,Great experience,2024-04-01,16
+2024-04-01 01:00:00.000000,R007,18-24,Male,Rural,Power Bi,2,Not user friendly,2024-04-01,17
+2024-04-01 01:10:00.000000,R008,25-34,Male,Urban,Python,5,Very useful tool,2024-04-01,16
+2024-04-01 01:20:00.000000,R009,18-24,Female,Rural,Power Bi,3,Poor experience,2024-04-01,15
+2024-04-01 01:30:00.000000,R010,18-24,Male,Rural,Python,5,Loved it,2024-04-01,8
+2024-04-01 01:40:00.000000,R011,18-24,Female,Urban,Python,4,Great experience,2024-04-01,16
+2024-04-01 01:50:00.000000,R012,18-24,Female,Rural,Python,4,Super helpful,2024-04-01,13
+2024-04-01 02:00:00.000000,R013,25-34,Female,Rural,Python,5,Loved it,2024-04-01,8
+2024-04-01 02:10:00.000000,R014,35-44,Female,Urban,R,3,Not user friendly,2024-04-01,17
+2024-04-01 02:20:00.000000,R015,18-24,Female,Urban,Python,4,Very useful tool,2024-04-01,16
+2024-04-01 02:30:00.000000,R016,18-24,Female,Urban,Python,5,Loved it,2024-04-01,8
+2024-04-01 02:40:00.000000,R017,18-24,Male,Urban,Python,4,Very useful tool,2024-04-01,16
+2024-04-01 02:50:00.000000,R018,18-24,Female,Rural,Power Bi,3,Needs improvement,2024-04-01,17
+2024-04-01 03:00:00.000000,R019,18-24,Male,Urban,Power Bi,3,Poor experience,2024-04-01,15
+2024-04-01 03:10:00.000000,R020,25-34,Male,Rural,Python,4,Loved it,2024-04-01,8
+2024-04-01 03:20:00.000000,R021,35-44,Female,Urban,Excel,3,It was okay,2024-04-01,11
+2024-04-01 03:30:00.000000,R022,18-24,Female,Rural,Python,5,Great experience,2024-04-01,16
+2024-04-01 03:40:00.000000,R023,35-44,Female,Urban,Excel,3,Average experience,2024-04-01,18
+2024-04-01 03:50:00.000000,R024,25-34,Male,Urban,Excel,4,Average experience,2024-04-01,18
+2024-04-01 04:00:00.000000,R025,25-34,Male,Urban,Python,4,Very useful tool,2024-04-01,16
+2024-04-01 04:10:00.000000,R026,18-24,Female,Rural,Python,4,Great experience,2024-04-01,16
+2024-04-01 04:20:00.000000,R027,35-44,Male,Urban,Excel,3,Average experience,2024-04-01,18
+2024-04-01 04:30:00.000000,R028,18-24,Female,Rural,Python,4,Very useful tool,2024-04-01,16
+2024-04-01 04:40:00.000000,R029,35-44,Female,Rural,R,3,Not user friendly,2024-04-01,17
+2024-04-01 04:50:00.000000,R030,35-44,Male,Rural,Excel,4,Average experience,2024-04-01,18
+2024-04-01 05:00:00.000000,R031,35-44,Male,Urban,R,2,Needs improvement,2024-04-01,17
+2024-04-01 05:10:00.000000,R032,18-24,Male,Urban,Python,5,Loved it,2024-04-01,8
+2024-04-01 05:20:00.000000,R033,18-24,Male,Urban,Python,5,Super helpful,2024-04-01,13
+2024-04-01 05:30:00.000000,R034,18-24,Female,Rural,Python,5,Loved it,2024-04-01,8
+2024-04-01 05:40:00.000000,R035,25-34,Male,Rural,Excel,3,Average experience,2024-04-01,18
+2024-04-01 05:50:00.000000,R036,35-44,Male,Urban,Excel,3,It was okay,2024-04-01,11
+2024-04-01 06:00:00.000000,R037,18-24,Female,Rural,Python,5,Great experience,2024-04-01,16
+2024-04-01 06:10:00.000000,R038,18-24,Male,Rural,Python,5,Super helpful,2024-04-01,13
+2024-04-01 06:20:00.000000,R039,18-24,Female,Urban,Python,5,Super helpful,2024-04-01,13
+2024-04-01 06:30:00.000000,R040,25-34,Male,Rural,Excel,3,Average experience,2024-04-01,18
+2024-04-01 06:40:00.000000,R041,18-24,Male,Urban,Python,5,Very useful tool,2024-04-01,16
+2024-04-01 06:50:00.000000,R042,18-24,Female,Rural,Power Bi,2,Not user friendly,2024-04-01,17
+2024-04-01 07:00:00.000000,R043,18-24,Male,Rural,Python,5,Great experience,2024-04-01,16
+2024-04-01 07:10:00.000000,R044,25-34,Female,Urban,Python,5,Loved it,2024-04-01,8
+2024-04-01 07:20:00.000000,R045,25-34,Male,Urban,Python,5,Very useful tool,2024-04-01,16
+2024-04-01 07:30:00.000000,R046,18-24,Female,Rural,Python,5,Great experience,2024-04-01,16
+2024-04-01 07:40:00.000000,R047,18-24,Male,Rural,Python,5,Loved it,2024-04-01,8
+2024-04-01 07:50:00.000000,R048,25-34,Female,Urban,Python,4,Very useful tool,2024-04-01,16
+2024-04-01 08:00:00.000000,R049,35-44,Male,Urban,Excel,3,It was okay,2024-04-01,11
+2024-04-01 08:10:00.000000,R050,25-34,Female,Urban,Excel,4,Nothing special,2024-04-01,15
+2024-04-01 08:20:00.000000,R051,25-34,Female,Rural,Python,4,Super helpful,2024-04-01,13
+2024-04-01 08:30:00.000000,R052,25-34,Male,Urban,Python,4,Great experience,2024-04-01,16
+2024-04-01 08:40:00.000000,R053,18-24,Female,Urban,Python,5,Great experience,2024-04-01,16
+2024-04-01 08:50:00.000000,R054,25-34,Male,Rural,Python,5,Great experience,2024-04-01,16
+2024-04-01 09:00:00.000000,R055,18-24,Male,Urban,Power Bi,3,Needs improvement,2024-04-01,17
+2024-04-01 09:10:00.000000,R056,25-34,Male,Rural,Excel,3,Average experience,2024-04-01,18
+2024-04-01 09:20:00.000000,R057,18-24,Male,Urban,Python,5,Very useful tool,2024-04-01,16
+2024-04-01 09:30:00.000000,R058,35-44,Female,Urban,Excel,4,Average experience,2024-04-01,18
+2024-04-01 09:40:00.000000,R059,25-34,Male,Rural,Python,4,Loved it,2024-04-01,8
+2024-04-01 09:50:00.000000,R060,18-24,Male,Rural,Python,5,Great experience,2024-04-01,16
+2024-04-01 10:00:00.000000,R061,35-44,Male,Rural,R,3,Poor experience,2024-04-01,15
+2024-04-01 10:10:00.000000,R062,18-24,Male,Urban,Power Bi,2,Not user friendly,2024-04-01,17
+2024-04-01 10:20:00.000000,R063,35-44,Male,Rural,R,2,Needs improvement,2024-04-01,17
+2024-04-01 10:30:00.000000,R064,35-44,Male,Rural,Excel,3,It was okay,2024-04-01,11
+2024-04-01 10:40:00.000000,R065,35-44,Female,Rural,Excel,3,Nothing special,2024-04-01,15
+2024-04-01 10:50:00.000000,R066,25-34,Male,Rural,Excel,3,Average experience,2024-04-01,18
+2024-04-01 11:00:00.000000,R067,35-44,Male,Rural,R,3,Poor experience,2024-04-01,15
+2024-04-01 11:10:00.000000,R068,18-24,Male,Rural,Python,5,Great experience,2024-04-01,16
+2024-04-01 11:20:00.000000,R069,35-44,Male,Rural,R,3,Poor experience,2024-04-01,15
+2024-04-01 11:30:00.000000,R070,25-34,Female,Rural,Excel,4,Nothing special,2024-04-01,15
+2024-04-01 11:40:00.000000,R071,35-44,Female,Rural,Excel,3,Nothing special,2024-04-01,15
+2024-04-01 11:50:00.000000,R072,25-34,Male,Rural,Python,5,Loved it,2024-04-01,8
+2024-04-01 12:00:00.000000,R073,18-24,Female,Rural,Python,4,Super helpful,2024-04-01,13
+2024-04-01 12:10:00.000000,R074,35-44,Male,Rural,Excel,3,It was okay,2024-04-01,11
+2024-04-01 12:20:00.000000,R075,25-34,Female,Rural,Python,5,Great experience,2024-04-01,16
+2024-04-01 12:30:00.000000,R076,18-24,Male,Rural,Python,5,Super helpful,2024-04-01,13
+2024-04-01 12:40:00.000000,R077,25-34,Female,Urban,Excel,3,Nothing special,2024-04-01,15
+2024-04-01 12:50:00.000000,R078,25-34,Male,Rural,Python,5,Great experience,2024-04-01,16
+2024-04-01 13:00:00.000000,R079,18-24,Male,Rural,Power Bi,3,Poor experience,2024-04-01,15
+2024-04-01 13:10:00.000000,R080,18-24,Female,Rural,Python,4,Great experience,2024-04-01,16
+2024-04-01 13:20:00.000000,R081,25-34,Male,Urban,Excel,4,Average experience,2024-04-01,18
+2024-04-01 13:30:00.000000,R082,35-44,Female,Urban,R,3,Not user friendly,2024-04-01,17
+2024-04-01 13:40:00.000000,R083,18-24,Male,Rural,Python,4,Loved it,2024-04-01,8
+2024-04-01 13:50:00.000000,R084,18-24,Male,Rural,Python,4,Loved it,2024-04-01,8
+2024-04-01 14:00:00.000000,R085,35-44,Female,Rural,R,2,Needs improvement,2024-04-01,17
+2024-04-01 14:10:00.000000,R086,18-24,Female,Urban,Python,4,Great experience,2024-04-01,16
+2024-04-01 14:20:00.000000,R087,18-24,Female,Rural,Python,5,Super helpful,2024-04-01,13
+2024-04-01 14:30:00.000000,R088,18-24,Male,Rural,Python,5,Very useful tool,2024-04-01,16
+2024-04-01 14:40:00.000000,R089,25-34,Male,Rural,Python,4,Super helpful,2024-04-01,13
+2024-04-01 14:50:00.000000,R090,18-24,Female,Rural,Python,5,Very useful tool,2024-04-01,16
+2024-04-01 15:00:00.000000,R091,18-24,Male,Urban,Python,5,Super helpful,2024-04-01,13
+2024-04-01 15:10:00.000000,R092,35-44,Female,Urban,Excel,4,Average experience,2024-04-01,18
+2024-04-01 15:20:00.000000,R093,18-24,Female,Urban,Python,4,Great experience,2024-04-01,16
+2024-04-01 15:30:00.000000,R094,18-24,Female,Urban,Python,4,Great experience,2024-04-01,16
+2024-04-01 15:40:00.000000,R095,35-44,Male,Urban,Excel,4,Average experience,2024-04-01,18
+2024-04-01 15:50:00.000000,R096,18-24,Male,Rural,Python,5,Loved it,2024-04-01,8
+2024-04-01 16:00:00.000000,R097,25-34,Female,Urban,Excel,3,Nothing special,2024-04-01,15
+2024-04-01 16:10:00.000000,R098,25-34,Female,Rural,Excel,4,Nothing special,2024-04-01,15
+2024-04-01 16:20:00.000000,R099,18-24,Female,Rural,Power Bi,2,Not user friendly,2024-04-01,17
+2024-04-01 16:30:00.000000,R100,35-44,Male,Urban,Excel,4,It was okay,2024-04-01,11
+2024-04-01 16:40:00.000000,R101,18-24,Female,Urban,Power Bi,3,Poor experience,2024-04-01,15
+2024-04-01 16:50:00.000000,R102,18-24,Female,Urban,Power Bi,2,Not user friendly,2024-04-01,17
+2024-04-01 17:00:00.000000,R103,35-44,Female,Urban,Excel,3,It was okay,2024-04-01,11
+2024-04-01 17:10:00.000000,R104,35-44,Male,Urban,Excel,4,Average experience,2024-04-01,18
+2024-04-01 17:20:00.000000,R105,18-24,Female,Urban,Python,5,Super helpful,2024-04-01,13
+2024-04-01 17:30:00.000000,R106,25-34,Female,Rural,Excel,3,Nothing special,2024-04-01,15
+2024-04-01 17:40:00.000000,R107,18-24,Male,Urban,Python,5,Loved it,2024-04-01,8
+2024-04-01 17:50:00.000000,R108,18-24,Female,Rural,Python,4,Loved it,2024-04-01,8
+2024-04-01 18:00:00.000000,R109,25-34,Male,Rural,Python,4,Great experience,2024-04-01,16
+2024-04-01 18:10:00.000000,R110,18-24,Male,Urban,Power Bi,3,Poor experience,2024-04-01,15
+2024-04-01 18:20:00.000000,R111,18-24,Male,Rural,Power Bi,2,Needs improvement,2024-04-01,17
+2024-04-01 18:30:00.000000,R112,35-44,Female,Rural,R,3,Poor experience,2024-04-01,15
+2024-04-01 18:40:00.000000,R113,18-24,Female,Urban,Python,5,Very useful tool,2024-04-01,16
+2024-04-01 18:50:00.000000,R114,18-24,Male,Urban,Power Bi,2,Poor experience,2024-04-01,15
+2024-04-01 19:00:00.000000,R115,18-24,Female,Rural,Python,4,Loved it,2024-04-01,8
+2024-04-01 19:10:00.000000,R116,18-24,Male,Rural,Python,5,Super helpful,2024-04-01,13
+2024-04-01 19:20:00.000000,R117,35-44,Female,Urban,Excel,3,Nothing special,2024-04-01,15
+2024-04-01 19:30:00.000000,R118,18-24,Female,Urban,Power Bi,2,Not user friendly,2024-04-01,17
+2024-04-01 19:40:00.000000,R119,18-24,Male,Rural,Power Bi,3,Poor experience,2024-04-01,15
+2024-04-01 19:50:00.000000,R120,18-24,Female,Urban,Python,5,Very useful tool,2024-04-01,16
+2024-04-01 20:00:00.000000,R121,25-34,Male,Rural,Excel,3,It was okay,2024-04-01,11
+2024-04-01 20:10:00.000000,R122,25-34,Female,Rural,Excel,3,It was okay,2024-04-01,11
+2024-04-01 20:20:00.000000,R123,35-44,Female,Urban,R,2,Not user friendly,2024-04-01,17
+2024-04-01 20:30:00.000000,R124,18-24,Female,Rural,Python,5,Great experience,2024-04-01,16
+2024-04-01 20:40:00.000000,R125,25-34,Female,Urban,Python,5,Super helpful,2024-04-01,13
+2024-04-01 20:50:00.000000,R126,25-34,Female,Urban,Excel,3,Average experience,2024-04-01,18
+2024-04-01 21:00:00.000000,R127,25-34,Male,Rural,Python,5,Very useful tool,2024-04-01,16
+2024-04-01 21:10:00.000000,R128,35-44,Female,Rural,R,3,Not user friendly,2024-04-01,17
+2024-04-01 21:20:00.000000,R129,35-44,Male,Rural,R,2,Poor experience,2024-04-01,15
+2024-04-01 21:30:00.000000,R130,18-24,Male,Urban,Power Bi,3,Needs improvement,2024-04-01,17
+2024-04-01 21:40:00.000000,R131,25-34,Male,Urban,Python,5,Very useful tool,2024-04-01,16
+2024-04-01 21:50:00.000000,R132,35-44,Male,Urban,Excel,3,It was okay,2024-04-01,11
+2024-04-01 22:00:00.000000,R133,18-24,Male,Urban,Power Bi,3,Needs improvement,2024-04-01,17
+2024-04-01 22:10:00.000000,R134,35-44,Male,Rural,Excel,4,It was okay,2024-04-01,11
+2024-04-01 22:20:00.000000,R135,35-44,Female,Urban,Excel,3,Average experience,2024-04-01,18
+2024-04-01 22:30:00.000000,R136,35-44,Male,Rural,Excel,3,Average experience,2024-04-01,18
+2024-04-01 22:40:00.000000,R137,25-34,Female,Rural,Python,4,Great experience,2024-04-01,16
+2024-04-01 22:50:00.000000,R138,25-34,Female,Urban,Excel,3,Average experience,2024-04-01,18
+2024-04-01 23:00:00.000000,R139,25-34,Male,Urban,Excel,4,Nothing special,2024-04-01,15
+2024-04-01 23:10:00.000000,R140,18-24,Male,Rural,Python,5,Super helpful,2024-04-01,13
+2024-04-01 23:20:00.000000,R141,25-34,Female,Rural,Python,4,Very useful tool,2024-04-01,16
+2024-04-01 23:30:00.000000,R142,18-24,Male,Urban,Python,4,Very useful tool,2024-04-01,16
+2024-04-01 23:40:00.000000,R143,35-44,Female,Urban,Excel,3,Nothing special,2024-04-01,15
+2024-04-01 23:50:00.000000,R144,18-24,Male,Urban,Python,5,Loved it,2024-04-01,8
+2024-04-02 00:00:00.000000,R145,18-24,Female,Rural,Power Bi,2,Needs improvement,2024-04-02,17
+2024-04-02 00:10:00.000000,R146,18-24,Male,Rural,Power Bi,2,Not user friendly,2024-04-02,17
+2024-04-02 00:20:00.000000,R147,25-34,Male,Urban,Python,4,Great experience,2024-04-02,16
+2024-04-02 00:30:00.000000,R148,18-24,Female,Rural,Python,4,Loved it,2024-04-02,8
+2024-04-02 00:40:00.000000,R149,18-24,Male,Urban,Python,5,Great experience,2024-04-02,16
+2024-04-02 00:50:00.000000,R150,25-34,Male,Urban,Python,4,Great experience,2024-04-02,16
+2024-04-02 01:00:00.000000,R151,18-24,Male,Rural,Python,4,Loved it,2024-04-02,8
+2024-04-02 01:10:00.000000,R152,18-24,Female,Urban,Python,4,Very useful tool,2024-04-02,16
+2024-04-02 01:20:00.000000,R153,25-34,Male,Urban,Excel,3,Nothing special,2024-04-02,15
+2024-04-02 01:30:00.000000,R154,25-34,Male,Rural,Python,5,Super helpful,2024-04-02,13
+2024-04-02 01:40:00.000000,R155,18-24,Male,Urban,Python,5,Great experience,2024-04-02,16
+2024-04-02 01:50:00.000000,R156,18-24,Female,Rural,Python,4,Great experience,2024-04-02,16
+2024-04-02 02:00:00.000000,R157,25-34,Male,Rural,Python,5,Great experience,2024-04-02,16
+2024-04-02 02:10:00.000000,R158,18-24,Male,Urban,Python,5,Great experience,2024-04-02,16
+2024-04-02 02:20:00.000000,R159,25-34,Female,Rural,Excel,3,Average experience,2024-04-02,18
+2024-04-02 02:30:00.000000,R160,25-34,Male,Rural,Python,4,Loved it,2024-04-02,8
+2024-04-02 02:40:00.000000,R161,18-24,Female,Rural,Python,4,Super helpful,2024-04-02,13
+2024-04-02 02:50:00.000000,R162,18-24,Female,Rural,Power Bi,3,Needs improvement,2024-04-02,17
+2024-04-02 03:00:00.000000,R163,25-34,Male,Rural,Python,4,Loved it,2024-04-02,8
+2024-04-02 03:10:00.000000,R164,25-34,Male,Rural,Excel,3,It was okay,2024-04-02,11
+2024-04-02 03:20:00.000000,R165,18-24,Female,Urban,Python,5,Very useful tool,2024-04-02,16
+2024-04-02 03:30:00.000000,R166,18-24,Male,Urban,Power Bi,3,Needs improvement,2024-04-02,17
+2024-04-02 03:40:00.000000,R167,18-24,Female,Rural,Python,4,Great experience,2024-04-02,16
+2024-04-02 03:50:00.000000,R168,18-24,Male,Urban,Python,4,Super helpful,2024-04-02,13
+2024-04-02 04:00:00.000000,R169,18-24,Female,Rural,Python,5,Very useful tool,2024-04-02,16
+2024-04-02 04:10:00.000000,R170,18-24,Female,Urban,Python,5,Very useful tool,2024-04-02,16
+2024-04-02 04:20:00.000000,R171,35-44,Male,Rural,Excel,3,Nothing special,2024-04-02,15
+2024-04-02 04:30:00.000000,R172,35-44,Male,Urban,Excel,3,Nothing special,2024-04-02,15
+2024-04-02 04:40:00.000000,R173,25-34,Male,Rural,Python,4,Great experience,2024-04-02,16
+2024-04-02 04:50:00.000000,R174,25-34,Female,Rural,Python,4,Super helpful,2024-04-02,13
+2024-04-02 05:00:00.000000,R175,18-24,Female,Urban,Python,4,Great experience,2024-04-02,16
+2024-04-02 05:10:00.000000,R176,25-34,Female,Urban,Python,4,Loved it,2024-04-02,8
+2024-04-02 05:20:00.000000,R177,18-24,Female,Rural,Power Bi,2,Poor experience,2024-04-02,15
+2024-04-02 05:30:00.000000,R178,18-24,Male,Urban,Python,5,Loved it,2024-04-02,8
+2024-04-02 05:40:00.000000,R179,18-24,Male,Urban,Python,4,Super helpful,2024-04-02,13
+2024-04-02 05:50:00.000000,R180,35-44,Female,Urban,R,2,Not user friendly,2024-04-02,17
+2024-04-02 06:00:00.000000,R181,35-44,Female,Rural,Excel,3,Nothing special,2024-04-02,15
+2024-04-02 06:10:00.000000,R182,25-34,Male,Urban,Excel,3,It was okay,2024-04-02,11
+2024-04-02 06:20:00.000000,R183,18-24,Male,Urban,Python,4,Super helpful,2024-04-02,13
+2024-04-02 06:30:00.000000,R184,25-34,Male,Rural,Excel,3,It was okay,2024-04-02,11
+2024-04-02 06:40:00.000000,R185,18-24,Female,Rural,Power Bi,2,Needs improvement,2024-04-02,17
+2024-04-02 06:50:00.000000,R186,18-24,Male,Urban,Python,5,Very useful tool,2024-04-02,16
+2024-04-02 07:00:00.000000,R187,18-24,Female,Urban,Power Bi,2,Needs improvement,2024-04-02,17
+2024-04-02 07:10:00.000000,R188,35-44,Female,Urban,Excel,3,It was okay,2024-04-02,11
+2024-04-02 07:20:00.000000,R189,25-34,Male,Urban,Python,4,Very useful tool,2024-04-02,16
+2024-04-02 07:30:00.000000,R190,25-34,Female,Urban,Excel,4,Average experience,2024-04-02,18
+2024-04-02 07:40:00.000000,R191,18-24,Male,Urban,Python,4,Super helpful,2024-04-02,13
+2024-04-02 07:50:00.000000,R192,18-24,Male,Rural,Python,5,Great experience,2024-04-02,16
+2024-04-02 08:00:00.000000,R193,18-24,Female,Urban,Power Bi,2,Poor experience,2024-04-02,15
+2024-04-02 08:10:00.000000,R194,18-24,Male,Urban,Python,5,Loved it,2024-04-02,8
+2024-04-02 08:20:00.000000,R195,18-24,Male,Urban,Power Bi,3,Needs improvement,2024-04-02,17
+2024-04-02 08:30:00.000000,R196,25-34,Male,Rural,Excel,3,Average experience,2024-04-02,18
+2024-04-02 08:40:00.000000,R197,18-24,Female,Urban,Power Bi,3,Not user friendly,2024-04-02,17
+2024-04-02 08:50:00.000000,R198,18-24,Male,Rural,Power Bi,2,Not user friendly,2024-04-02,17
+2024-04-02 09:00:00.000000,R199,25-34,Female,Urban,Excel,3,Average experience,2024-04-02,18
+2024-04-02 09:10:00.000000,R200,35-44,Female,Urban,Excel,4,Nothing special,2024-04-02,15
+2026-04-18 23:25:12.887205,NEW_201,18-24,Unknown,Urban,Power Bi,1,easy to use and un derstand ,2026-04-18,28
+2026-04-18 23:49:02.034438,NEW_202,25-34,Unknown,Urban,Python,2,easy to understand and apply,2026-04-18,28

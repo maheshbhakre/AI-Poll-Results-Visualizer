@@ -1,0 +1,16 @@
+Total Responses Collected: 200
+Most Preferred Tool: Python (51.00%)
+Least Preferred Tool: R (7.00%)
+Average Satisfaction Score: 3.75 / 5
+Highest Satisfaction Tool: Python
+Age Group 18-24 prefers Python
+Age Group 25-34 prefers Python
+Age Group 35-44 prefers Excel
+Rural users prefer Python
+Urban users prefer Python
+
+--- Recommendations ---
+Focus on Python as the primary offering due to highest demand.
+Improve R experience to increase adoption.
+Target marketing campaigns based on age-group preferences.
+Leverage high-satisfaction tools for retention strategies.
